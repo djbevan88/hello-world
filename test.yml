@@ -1,0 +1,8 @@
+---
+hosts: all
+
+tasks:
+
+name: "My test"
+  msg: "This is a test"
+  
